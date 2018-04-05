@@ -1,0 +1,10 @@
+img, video {
+  width: 100%;
+  max-width: 100%;
+}
+
+/*/////////// Layout Styles //////////////*/
+
+.row {
+  margin-bottom: 20px;
+}
